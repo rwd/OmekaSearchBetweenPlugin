@@ -19,7 +19,7 @@ Configure the plugin at `/admin/plugins/config/name/SearchBetween`
 
 ## Usage
 
-With the plugin installed, the advanced search form at `/items/search` will
+With the plugin installed, the advanced search form at `/items/browse` will
 have some additional fields for entering to and from values. Search results will
 be filtered to items with values in that range (in the elements selected in the
 plugin settings).
